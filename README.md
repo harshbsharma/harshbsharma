@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Smart Contract Project  
 - 📫 How to reach me 
 -   📧 Mail Me :- harshbsharma1209@gmail.com  
--   Linked In Profile :- https://www.linkedin.com/in/harsh-sharma-657243228/
+-   Linked In Profile :- https://www.linkedin.com/in/harshbsharma
 
 <!---
 harshbsharma/harshbsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
