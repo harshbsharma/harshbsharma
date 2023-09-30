@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/sharma.harsh2612/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="45" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
+ 
   <a href="https://stackoverflow.com/users/22310117/harsh-sharma" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="50" height="45" alt="stackoverflow logo"  />
   </a>
