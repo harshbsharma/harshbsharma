@@ -3,7 +3,7 @@
 
 ###
 
-<h5 align="center">Greetings! I'm Harsh Sharma, a dynamic Full Stack Web Developer 🧑‍💻, specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. I'm currently in my junior year of pursuing B.Tech in Computer Science, I've spent a solid two years delving deep into the world of MERN. My passion for learning and hands-on experience in hackathons and competitions have helped me to sharp my skills.<br><br/>Outside of coding, I find solace in the art of storytelling through cinema. You'll often find me immersed in finance and economics literature. It's not just an interest; it's a valuable lens through which I understand the broader impact of technology on our society and economy.</h5>
+<h3 align="center">Greetings! I'm Harsh Sharma, a dynamic Full Stack Web Developer 🧑‍💻, specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. I'm currently in my junior year of pursuing B.Tech in Computer Science, I've spent a solid two years delving deep into the world of MERN. My passion for learning and hands-on experience in hackathons and competitions have helped me to sharp my skills.<br><br/>Outside of coding, I find solace in the art of storytelling through cinema. You'll often find me immersed in finance and economics literature. It's not just an interest; it's a valuable lens through which I understand the broader impact of technology on our society and economy.</h3>
 
 ###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshbsharma" alt="harshbsharma" /></a> </p>
@@ -132,7 +132,7 @@
 ###
 
 <div>
-  <img align="right" height="200" src="https://media.giphy.com/media/3o6Mb4i00yoEJnLsxW/giphy.gif"  />
+  <img align="right" height="150" src="https://media.giphy.com/media/3o6Mb4i00yoEJnLsxW/giphy.gif"  />
 </div>
 
 
@@ -140,7 +140,7 @@
 
 <div>
   
- [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fqgkwhvyrpzdlja2zx4polahiu&width=600)](https://open.spotify.com/user/31fqgkwhvyrpzdlja2zx4polahiu)
+ [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fqgkwhvyrpzdlja2zx4polahiu&width=500)](https://open.spotify.com/user/31fqgkwhvyrpzdlja2zx4polahiu)
 </div>
 <!--
 ###
