@@ -129,16 +129,31 @@
 ###
 
 <div>
-  <img align="right" height="150" src="https://media.giphy.com/media/3o6Mb4i00yoEJnLsxW/giphy.gif"  />
+  <img align="right" width="500" height="330" src="https://media.giphy.com/media/3o6Mb4i00yoEJnLsxW/giphy.gif"  />
+
 </div>
+
+
+  
+
 
 
 ###
 
 <div>
   
- [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fqgkwhvyrpzdlja2zx4polahiu&width=500)](https://open.spotify.com/user/31fqgkwhvyrpzdlja2zx4polahiu)
+ [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fqgkwhvyrpzdlja2zx4polahiu&width=500&)](https://open.spotify.com/user/31fqgkwhvyrpzdlja2zx4polahiu)
 </div>
+
+
+[![An image of @harshbsharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshbsharma)](https://holopin.io/@harshbsharma)
+
+<!--
+<a href="https://holopin.io/@harshbsharma">
+  <img src="https://holopin.me/harshbsharma" alt="@kochie's Holopin board" align="right" width="500"  height="150" />
+</a>
+-->
+
 <!--
 ###
 <img src="https://raw.githubusercontent.com/harshbsharma/harshbsharma/output/snake.svg"/>
