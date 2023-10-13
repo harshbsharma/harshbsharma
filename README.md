@@ -129,7 +129,7 @@
 ###
 
 <div>
-  <img align="right" width="400" height="330" src="https://media.giphy.com/media/3o6Mb4i00yoEJnLsxW/giphy.gif"  />
+  <img align="right" width="300" height="250" src="https://media.giphy.com/media/3o6Mb4i00yoEJnLsxW/giphy.gif"  />
 
 </div>
 
